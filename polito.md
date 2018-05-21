@@ -19,7 +19,9 @@ Those are some projects I worked on while attending courses at Politecnico di To
 
 ### Optimization Methods and Algorithms (OMA)
 
-- [Project for the *VRPTW problem* done during the course](https://github.com/MartinoMensio/OMA-project)
+A project for the *VRPTW problem with fixed fleet size*. Given the library jsprit, we added constraints to find solutions with a predetermined number of vehicles.
+
+- [Project for the  done during the course](https://github.com/MartinoMensio/OMA-project)
 - [Presentation slides](https://github.com/MartinoMensio/OMA-project/blob/master/presentation.pdf)
 
 ### System and Devices Programming (SDP)
@@ -57,7 +59,16 @@ Those are some projects I worked on while attending courses at Politecnico di To
 </div> -->
 ### Project and Laboratory on Communication Systems
 
+A project for barcode processing by using .NET Micro Framework. The prototype allows users to add products in a self-checkout scenario, by using barcodes.
+
 - [Presentation of the project](https://projectsandlaboratory2017.github.io)
 - [Source code](https://github.com/ProjectsAndLaboratory2017/project_source)
 
-<!-- Applicazioni Internet -->
+### Applicazioni Internet
+
+An internet application, based on AngularJS for the frontend and on Spring webservices for the backend, which provides services related to public transportation giving access to buslines, path calculation and chat on some predefiend topics.
+
+- [Presentation of the project](https://tomove2017.github.io)
+- [Demonstration](https://ai2017.herokuapp.com)
+- [The source code of the final project](https://github.com/ToMove2017/project)
+- [The source code for all the laboratories](https://github.com/ToMove2017/)
