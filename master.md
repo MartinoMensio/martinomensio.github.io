@@ -13,9 +13,11 @@ The defense of the thesis was held on 12 April:
 - [slides](https://www.slideshare.net/MartinoMensio/deep-semantic-learning-for-conversational-agents-93694181)
 - [video](https://youtu.be/OyJyip7_-yM)
 
-You can find the complete document [here](http://dx.doi.org/10.13140/RG.2.2.31318.34887), and the source code of the prototype:
+You can find the complete document [[pdf](http://dx.doi.org/10.13140/RG.2.2.31318.34887)] [[latex](https://github.com/MartinoMensio/masters_thesis)]
+and the source code of the prototype:
 - [Core and NLU](https://github.com/D2KLab/botcycle)
 - [Bot Server](https://github.com/MartinoMensio/botcycle-server)
+
 
 You can interact with the bot on the following platforms:
 
