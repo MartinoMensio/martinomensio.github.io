@@ -9,6 +9,8 @@ title: Master's Thesis
 
 This Master's Thesis, done in collaboration between [Politecnico di Torino](https://www.polito.it) and [Istituto Superiore Mario Boella](http://www.ismb.it/), focuses on Natural Language Understanding.
 
+Near the conclusion of the thesis I was invited by [HKNPolito](https://hknpolito.org/) to present a talk about Deep Learning for their [introductory event to Machine Learning](https://hknpolito.org/events/introduzione-al-machine-learning/). You can find the [slides](https://www.slideshare.net/MartinoMensio/deep-learning-per-la-comprensione-del-linguaggio-naturale-hkn-91564619) used for the presentation.
+
 The defense of the thesis was held on 12 April:
 - [slides](https://www.slideshare.net/MartinoMensio/deep-semantic-learning-for-conversational-agents-93694181)
 - [video](https://youtu.be/OyJyip7_-yM)
