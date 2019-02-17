@@ -1,11 +1,11 @@
 main:
-  - title: "PoliTo courses projects"
-    url: /polito/
-  - title: "Master's Thesis"
-    url: /master/
   - title: "KMi"
     url: /kmi/
   - title: "Publications"
     url: /publications/
+  - title: "Master's Thesis"
+    url: /master/
+  - title: "PoliTo courses projects"
+    url: /polito/
   - title: "Other links"
     url: /other/
