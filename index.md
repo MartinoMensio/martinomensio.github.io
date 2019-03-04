@@ -4,7 +4,10 @@ author_profile: true
 #title: Home
 ---
 
-Welcome to my portfolio! I am Martino from Torino (*Italy*) and I am very interested in Natural Language Processing and Explainability.
+Welcome to my portfolio! I am Martino from Torino (*Italy*).
+I am a graduate in Computer Engineering, interested in Machine Learning and Explainability.
+
+I like to understand how things work and I think that Artificial Intelligence should not just be about algorithms that learn to perform complex tasks; it should be about explainable methods that enable the crowds to understand why things happen, to be able to face and remove bias, correct models and enabling the humans to improve their learning capabilities.
 
 ## Short bio
 

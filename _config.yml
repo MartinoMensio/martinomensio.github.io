@@ -124,9 +124,12 @@ author:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   links:
-    - label         : "Google Scolar"
-      icon           : "fas fa-graduation-cap"
-      url            : "https://scholar.google.com/citations?user=lysjkx0AAAAJ"
+    - label        : "Google Scholar"
+      icon         : "fas fa-graduation-cap"
+      url          : "https://scholar.google.com/citations?user=lysjkx0AAAAJ"
+    - label        : "ResearchGate"
+      icon         : "fab fa-researchgate"
+      url          : "https://www.researchgate.net/profile/Martino_Mensio"
 
 
 # Reading Files

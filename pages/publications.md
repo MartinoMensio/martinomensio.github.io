@@ -18,5 +18,5 @@ title: Publications
 
 ## Other contributions
 
-- Mensio M., Bastianelli E., Tiddi I., Rizzo G. (2019) Towards Explainable Language Understanding for Human Robot Interaction. In *(not published)AAAI 2019 Spring Symposium on Combining Machine Learning with Knowledge Engineering*
+- Mensio M., Bastianelli E., Tiddi I., Rizzo G. (2019) Towards Explainable Language Understanding for Human Robot Interaction. In *(not published, withdrawn) AAAI 2019 Spring Symposium on Combining Machine Learning with Knowledge Engineering*
 - Mensio M., Piccolo L., Alani H. (2018) Trust and Explainability in Language Understanding. In *(HAI2018) Measuring and Designing Trust workshop* [[Presentation slides](https://www.slideshare.net/MartinoMensio/trust-and-explainability-in-language-understanding)]
