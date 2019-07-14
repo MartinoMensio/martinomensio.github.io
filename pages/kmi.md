@@ -5,7 +5,7 @@ permalink: /kmi/
 title: Knowledge Media Institute
 ---
 
-This page is about my work as Research Assistant in Knowledge Media Institute at the Open University, UK.
+This page is about my work as Research Assistant in Knowledge Media Institute at The Open University, UK.
 
 ## Co-Inform (November 2018 - Current)
 
@@ -15,16 +15,12 @@ The role of KMi in the project is to detect misinformation online and analyse ho
 
 ### MisinfoMe
 
-My first steps in the project have been to work on a demo that aims at seeing how much of known misinforming content is spreaded over the network of your friends.
+My activity is focused on the development of [MisinfoMe](http://socsem.kmi.open.ac.uk/misinfo/), a tool that lets users analyse the interaction between their Twitter profiles (and the accounts followed) and known instances of misinformation.
 
 The idea is, based on Twitter accounts, to have a platform where you can analyse yourself and your contacts to see from where you might be affected by misinformation. This corresponds to identifying profiles that share most misinforming content ans also identify where this content comes from.
 
-So for the data collection, besides retrieving data about tweets and users from the Twitter API, there is a whole work of dataset collection and aggregation in order to have labeled data. The main sources of data are:
-
-- fact-checking agencies: they all work on debunking and verifying stories that arise
-- public datasets: they may provide labels for entire domains, for single URLs or even for claim-level statements
-
-The platform analyses the URLs shared by the submitted profiles and and provides pointers to the fact-checking articles to the user, explaining in this way how the computed score came out.
+This activity lets us explore the existing data sources for misinformation occurrences that have already been analysed by experts (e.g. fact-checkers and other organisations that for example rate the credibility of news sources).
+During this activity, we found the material to compare different existing assessments of news sources, which is bringing to one publication in the [Conference for Truth and Trust Online](https://truthandtrustonline.com/).
 
 ## NLU (May 2018 - November 2018)
 

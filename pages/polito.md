@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /polito/
-title: PoliTo courses projects
+title: PoliTo projects
 ---
 
 Those are some projects I worked on while attending courses at Politecnico di Torino.
