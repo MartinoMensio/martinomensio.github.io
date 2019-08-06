@@ -7,7 +7,7 @@ title: Publications
 
 ### Published as first author
 
-- Mensio M., Alani H. (October 2019) News Source Credibility in the Eyes of Different Assessors. In *Conference for Truth and Trust Online (TTO 2019), London, UK* [[ORO link soon]()] [[Slides soon]()]
+- Mensio M., Alani H. (October 2019) News Source Credibility in the Eyes of Different Assessors. In *Conference for Truth and Trust Online (TTO 2019), London, UK* [[Full text](http://oro.open.ac.uk/62771/)] [[Slides soon]()]
 - Mensio M., Alani H. (October 2019) MisinfoMe: Who’s Interacting with Misinformation? In *(ISWC 2019) Posters and Demos* [[Full text soon]()]
 - Mensio M., Bastianelli E., Tiddi I., Rizzo G. (October 2018) A Multi-layer LSTM-based Approach for Robot Command Interaction Modeling. In *(IROS2018) Workshop on Language and Robotics* [[Poster](/assets/docs/2018_IROS_poster.pdf)] [[Full text](https://arxiv.org/abs/1811.05242)] [[Presentation slides](https://www.slideshare.net/MartinoMensio/a-multilayer-lstmbased-approach-for-robot-command-interaction-modeling)]
 - Mensio M., Rizzo G., Morisio M. (April 2018) The Rise of Emotion-aware Conversational Agents: Threats in Digital Emotions . In *(WWW) Re-coding Black Mirror Lyon, France* [[ACM](https://dl.acm.org/citation.cfm?id=3191607)] [[Full text](https://www.researchgate.net/publication/324634203_The_Rise_of_Emotion-aware_Conversational_Agents_Threats_in_Digital_Emotions)] [[Presentation slides](https://www.slideshare.net/MartinoMensio/the-rise-of-emotionaware-conversational-agents-threats-in-digital-emotions)]
