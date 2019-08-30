@@ -24,7 +24,7 @@ During this activity, we found the material to compare different existing assess
 
 ## NLU (May 2018 - November 2018)
 
-The topics covered in this period are a continuation of the work done for the [Master's Thesis](/master).
+The topics covered in this period are a continuation of the work done for the [Master's Thesis](/master/).
 
 The main goal is to enable a voice interface on the robots in order to be able to receive commands and perform some actions.
 
