@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 Welcome to my portfolio! I am Martino from Torino (*Italy*).
-I am a graduate in Computer Engineering, interested in Machine Learning and Explainability.
+I am a PhD Student, graduated in Computer Engineering, interested in Machine Learning and Explainability.
 
 I like to understand how things work and I think that Artificial Intelligence should not just be about algorithms that learn to perform complex tasks; it should be about explainable methods that enable the crowds to understand why things happen, to be able to face and remove bias, correct models and enabling the humans to improve their learning capabilities.
 
@@ -17,7 +17,7 @@ A very important step in my academic path is the Master's thesis, done under the
 
 Then I switched to United Kingdom where at the moment I am working as Research Assistant in the [Knowledge Media Institute](http://kmi.open.ac.uk/) part of The Open University. [See more here about the research topics I am working on.](/kmi/)
 
-In October I will be starting my PhD at The Open University.
+On the first of October started my PhD at The Open University.
 
 ## Other interests
 
