@@ -1,13 +1,15 @@
 main:
   - title: "Home"
     url: /
-  - title: "KMi"
-    url: /kmi/
+  - title: "PhD"
+    url: /phd/
+  - title: "RA"
+    url: /kmi_ra/
   - title: "Publications"
     url: /publications/
   - title: "Master's Thesis"
     url: /master/
-  - title: "PoliTo projects"
+  - title: "PoliTo"
     url: /polito/
   - title: "Other links"
     url: /other/

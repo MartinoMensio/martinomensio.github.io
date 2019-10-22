@@ -1,28 +1,31 @@
 ---
 layout: single
 author_profile: true
-permalink: /kmi/
-title: Knowledge Media Institute
+permalink: /kmi_ra/
+title: Research Assistant in KMi
 ---
 
-This page is about my work as Research Assistant in Knowledge Media Institute at The Open University, UK.
+This page is about my work as Research Assistant in Knowledge Media Institute (KMi) at The Open University, UK.
 
-## Co-Inform (November 2018 - Current)
+## Co-Inform (November 2018 - September 2019)
 
-From November 2018 I have been working on Co-Inform, a EU-funded project. The objective is to create tools to foster critical thinking and digital literacy for a better-informed society. These tools will be designed and tested with policymakers, journalists, and citizens in 3 different EU countries.
+From November 2018 I have been working on [Co-Inform](https://coinform.eu), a EU H2020 funded project (grant agreement 770302). The objective is to create tools to foster critical thinking and digital literacy for a better-informed society. These tools will be designed and tested with policymakers, journalists, and citizens in 3 different EU countries.
 
 The role of KMi in the project is to detect misinformation online and analyse how it spreads.
 
 ### MisinfoMe
 
-My activity is focused on the development of [MisinfoMe](http://socsem.kmi.open.ac.uk/misinfo/), a tool that lets users analyse the interaction between their Twitter profiles (and the accounts followed) and known instances of misinformation.
+My activity is focused on the development of [MisinfoMe](http://misinfo.me/), a tool that lets users analyse the interaction between their Twitter profiles (and the accounts followed) and known instances of misinformation.
 
 The idea is, based on Twitter accounts, to have a platform where you can analyse yourself and your contacts to see from where you might be affected by misinformation. This corresponds to identifying profiles that share most misinforming content ans also identify where this content comes from.
 
 This activity lets us explore the existing data sources for misinformation occurrences that have already been analysed by experts (e.g. fact-checkers and other organisations that for example rate the credibility of news sources).
-During this activity, we found the material to compare different existing assessments of news sources, which is bringing to one publication in the [Conference for Truth and Trust Online](https://truthandtrustonline.com/).
+During this activity, we found the material to compare different existing assessments of news sources, which brought to:
 
-## NLU (May 2018 - November 2018)
+- ["News Source Credibility in the Eyes of Different Assessors"](http://oro.open.ac.uk/62771/) in the [Conference for Truth and Trust Online](https://truthandtrustonline.com/): this paper is a comparison of existing assessments rating the different factors of credibility: the factuality provided by fact-checkers and other ratings of existing tools (e.g. [Media Bias/Fact Check](https://mediabiasfactcheck.com), [NewsGuard](https://newsguardtech.com), [Web of Trust](https://mywot.com)). We pointed out the challenges that we are facing while developing the technological solutions, such as how to deal with contrasting signals to credibility. You can check out the [slides used during the presentation](https://slideshare.net/MartinoMensio/news-source-credibility-in-the-eyes-of-different-assessors).
+- ["MisinfoMe: Who’s Interacting with Misinformation?"](http://oro.open.ac.uk/66341/) in the [International Semantic Web Conference 2019](https://iswc2019.semanticweb.org): this short paper is a description of the demonstration of the tool that will be given in the session Posters & Demos. The tool itself is [publicly available online](https://misinfo.me/)
+
+## NL Understannding (May 2018 - November 2018)
 
 The topics covered in this period are a continuation of the work done for the [Master's Thesis](/master/).
 
@@ -53,5 +56,4 @@ On the other side, it leads to positive effects on the users, such as trust that
 
 ## Pointers
 
-[http://www.open.ac.uk/research/people/mm34834](http://www.open.ac.uk/research/people/mm34834)
-[http://kmi.open.ac.uk/people/member/martino-mensio](http://kmi.open.ac.uk/people/member/martino-mensio)
+[KMi profile page](http://kmi.open.ac.uk/people/member/martino-mensio)
