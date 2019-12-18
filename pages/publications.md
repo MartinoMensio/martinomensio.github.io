@@ -7,6 +7,7 @@ title: Publications
 
 ### Published as first author
 
+- Mensio M., Bastianelli E., Tiddi I., Rizzo G. (2020) Mitigating Bias in Deep Nets with Knowledge Bases: the Case of Natural Language Understanding for Robots. In *AAAI 2020 Spring Symposium on Combining Machine Learning with Knowledge Engineering* [Available soon]
 - Mensio M., Alani H. (October 2019) MisinfoMe: Who’s Interacting with Misinformation? In *(ISWC 2019) Posters and Demos* [[Poster](/assets/docs/2019_ISWC_poster.pdf)] [[Full text](http://oro.open.ac.uk/66341/)]
 - Mensio M., Alani H. (October 2019) News Source Credibility in the Eyes of Different Assessors. In *Conference for Truth and Trust Online (TTO 2019), London, UK* [[Full text](http://oro.open.ac.uk/62771/)] [[Slides](https://www.slideshare.net/MartinoMensio/news-source-credibility-in-the-eyes-of-different-assessors)]
 - Mensio M., Bastianelli E., Tiddi I., Rizzo G. (October 2018) A Multi-layer LSTM-based Approach for Robot Command Interaction Modeling. In *(IROS2018) Workshop on Language and Robotics* [[Poster](/assets/docs/2018_IROS_poster.pdf)] [[Full text](https://arxiv.org/abs/1811.05242)] [[Presentation slides](https://www.slideshare.net/MartinoMensio/a-multilayer-lstmbased-approach-for-robot-command-interaction-modeling)]
@@ -20,7 +21,6 @@ title: Publications
 
 ### Other contributions
 
-[//]: # ~Mensio M., Bastianelli E., Tiddi I., Rizzo G. (2019) Towards Explainable Language Understanding for Human Robot Interaction. In *(not published, withdrawn) AAAI 2019 Spring Symposium on Combining Machine Learning with Knowledge Engineering*
 - Mensio M., Farrell T. (October 2019) Truth and Trust Online Conference report. On *[Co-Inform blog](https://coinform.eu/blog/)* [[blog post](https://coinform.eu/truth-and-trust-conference/)]
 - Mensio M., Piccolo L., Farrell T. (May 2019) Combating misinformation: the importance of human judgement. On *[Co-Inform blog](https://coinform.eu/blog/)* [[blog post](https://coinform.eu/combating-misinformation-the-importance-of-human-judgement/)]
 - Tracie F., Mensio M., Burel G., Piccolo L., Alani H. (March 2019) Survey of Misinformation Detection Methods. Deliverable for the *Co-Inform project* [[Deliverable 3.2](https://coinform.eu/wp-content/uploads/2019/05/D3.2-H2020-Co-Inform-Survey-of-Misinformation-Detection-Methods.pdf)]
