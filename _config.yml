@@ -271,3 +271,8 @@ defaults:
       comments: # true
       share: true
       related: true
+
+scholar:
+  style: mla
+  source: ./_bibliography
+  bibliography: references.bib

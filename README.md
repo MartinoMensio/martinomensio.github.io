@@ -12,3 +12,4 @@ This is the repository that contains the source of my [GitHub page](https://mart
 ## I want to experiment
 
 https://github.com/VincentGarreau/particles.js
+https://chauff.github.io/publications/ (labels of publications, and beautiful-jekyll)

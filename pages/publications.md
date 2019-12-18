@@ -25,3 +25,8 @@ title: Publications
 - Mensio M., Piccolo L., Farrell T. (May 2019) Combating misinformation: the importance of human judgement. On *[Co-Inform blog](https://coinform.eu/blog/)* [[blog post](https://coinform.eu/combating-misinformation-the-importance-of-human-judgement/)]
 - Tracie F., Mensio M., Burel G., Piccolo L., Alani H. (March 2019) Survey of Misinformation Detection Methods. Deliverable for the *Co-Inform project* [[Deliverable 3.2](https://coinform.eu/wp-content/uploads/2019/05/D3.2-H2020-Co-Inform-Survey-of-Misinformation-Detection-Methods.pdf)]
 - Mensio M., Piccolo L., Alani H. (December 2018) Trust and Explainability in Language Understanding. In *(HAI2018) Measuring and Designing Trust workshop* [[Presentation slides](https://www.slideshare.net/MartinoMensio/trust-and-explainability-in-language-understanding)]
+
+
+{% bibliography %}
+
+{% bibliography --file secondary %}
