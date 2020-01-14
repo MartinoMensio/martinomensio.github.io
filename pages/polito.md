@@ -34,15 +34,11 @@ A project for the *VRPTW problem with fixed fleet size*. Given the library jspri
 - [Laboratories done during the course](https://github.com/MartinoMensio/PDS-Labs)
 - [Implementation of some basic system calls in OS161](https://github.com/MartinoMensio/os161)
 
-<!-- <div class="panel panel-primary">
-    <div class="panel-heading">Distributed Programming I</div>
-    <div class="panel-body">
-        <a href="https://github.com/MartinoMensio/DP1-Labs">Laboratories done during the course, including some solutions to exams of the previous years</a>
-        <br />
-        <a href="https://github.com/MartinoMensio/DP1_website_june2016">Mini-project for the exam</a> --&gt
-        <a href="https://dp-web-jun16-martinomensio.azurewebsites.net/">deployed here</a>&lt-- (since a free account is used, can be quite slow sometimes)
-    </div>
-</div> -->
+### Distributed Programming I
+
+- [Laboratories done during the course, including some solutions to exams of the previous years](https://github.com/MartinoMensio/DP1-Labs)
+- [Mini-project for the exam](https://github.com/MartinoMensio/DP1_website_june2016)
+
 
 ### Formal Languages and Compilers
 
@@ -51,12 +47,10 @@ A project for the *VRPTW problem with fixed fleet size*. Given the library jspri
 
 ## Master's Degree second year
 
-<!-- <div class="panel panel-primary">
-    <div class="panel-heading">Distributed Programming II</div>
-    <div class="panel-body">
-        <a href="https://github.com/MartinoMensio/DP2-Labs">Assignments done during the course</a>
-    </div>
-</div> -->
+### Distributed Programming II
+
+- [Assignments done during the course](https://github.com/MartinoMensio/DP2-Labs)
+
 ### Project and Laboratory on Communication Systems
 
 A project for barcode processing by using .NET Micro Framework. The prototype allows users to add products in a self-checkout scenario, by using barcodes.
