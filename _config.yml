@@ -89,6 +89,16 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    ['https://scholar.google.com/citations?user=lysjkx0AAAAJ',
+    'https://www.researchgate.net/profile/Martino_Mensio',
+    'martino.mensio@open.ac.uk',
+    'https://twitter.com/MartinoMensio',
+    'https://www.facebook.com/martino.mensio',
+    'https://www.linkedin.com/in/martinomensio',
+    'https://instagram.com/MartinoMensio',
+    'https://bitbucket.org/MartinoMensio',
+    'https://github.com/MartinoMensio',
+    'https://soundcloud.com/MartinoMensio']
 
 # Analytics
 analytics:
