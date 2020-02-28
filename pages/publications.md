@@ -7,7 +7,8 @@ title: Publications
 
 ### Published as first author
 
-- Mensio M., Bastianelli E., Tiddi I., Rizzo G. (2020) Mitigating Bias in Deep Nets with Knowledge Bases: the Case of Natural Language Understanding for Robots. In *AAAI 2020 Spring Symposium on Combining Machine Learning with Knowledge Engineering* [Available soon]
+- Mensio M., Willis A., Alani H. (April 2020) Towards a Cross-article Narrative Comparison of News. In *Third International Workshop on Narrative Extraction from Texts held in conjunction with the 42nd European Conference on Information Retrieval (Text2Story2020 @ ECIR2020)* [available soon]
+- Mensio M., Bastianelli E., Tiddi I., Rizzo G. (March 2020) Mitigating Bias in Deep Nets with Knowledge Bases: the Case of Natural Language Understanding for Robots. In *AAAI 2020 Spring Symposium on Combining Machine Learning with Knowledge Engineering* [Available soon]
 - Mensio M., Alani H. (October 2019) MisinfoMe: Who’s Interacting with Misinformation? In *(ISWC 2019) Posters and Demos* [[Poster](/assets/docs/2019_ISWC_poster.pdf)] [[Full text (ORO)](http://oro.open.ac.uk/66341/)] [[Full text (CEUR)](http://ceur-ws.org/Vol-2456/paper57.pdf)]
 - Mensio M., Alani H. (October 2019) News Source Credibility in the Eyes of Different Assessors. In *Conference for Truth and Trust Online (TTO 2019), London, UK* [[Full text (ORO)](http://oro.open.ac.uk/62771/)] [[Slides](https://www.slideshare.net/MartinoMensio/news-source-credibility-in-the-eyes-of-different-assessors)]
 - Mensio M., Bastianelli E., Tiddi I., Rizzo G. (October 2018) A Multi-layer LSTM-based Approach for Robot Command Interaction Modeling. In *(IROS2018) Workshop on Language and Robotics* [[Poster](/assets/docs/2018_IROS_poster.pdf)] [[Full text (arXiv)](https://arxiv.org/abs/1811.05242)] [[Presentation slides](https://www.slideshare.net/MartinoMensio/a-multilayer-lstmbased-approach-for-robot-command-interaction-modeling)]
@@ -16,7 +17,7 @@ title: Publications
 
 ### Other publications
 
-- Piccolo L., Mensio M., Alani H. (October 2018) Chasing the Chatbots: Directions for Interaction and Design Research. In *(INSCI 2018) CONVERSATIONS Workshop* [[Full text](https://conversations2018.files.wordpress.com/2018/10/conversations_2018_paper_10_preprint.pdf)]
+- Piccolo L., Mensio M., Alani H. (October 2018) Chasing the Chatbots: Directions for Interaction and Design Research. In *(INSCI 2018) CONVERSATIONS Workshop* [[Full text (Springer)](https://link.springer.com/chapter/10.1007/978-3-030-17705-8_14)] [[Full text (ORO)](http://oro.open.ac.uk/57382/)]
 - Tiddi I., Bastianelli E., Mensio M., Motta E. (October 2018) Allowing Exploratory Search from Podcasts: the Case of Secklow Sounds Radio. In *(ISWC 2018) Posters and Demos* [[Full text (CEUR)](http://ceur-ws.org/Vol-2180/paper-71.pdf)]
 
 ### Other contributions
