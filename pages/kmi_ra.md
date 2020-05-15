@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /kmi_ra/
+permalink: /kmi-ra/
 title: Research Assistant in KMi
 ---
 
@@ -10,7 +10,6 @@ This page is about my work as Research Assistant in Knowledge Media Institute (K
 ## Co-Inform (November 2018 - September 2019)
 
 From November 2018 I have been working on [Co-Inform](https://coinform.eu), a EU H2020 funded project (grant agreement 770302). The objective is to create tools to foster critical thinking and digital literacy for a better-informed society. These tools will be designed and tested with policymakers, journalists, and citizens in 3 different EU countries.
-
 The role of KMi in the project is to detect misinformation online and analyse how it spreads.
 
 ### MisinfoMe

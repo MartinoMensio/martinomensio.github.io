@@ -3,13 +3,13 @@ main:
     url: /
   - title: "PhD"
     url: /phd/
-  - title: "RA"
-    url: /kmi_ra/
   - title: "Publications"
     url: /publications/
-  - title: "Master's Thesis"
+  - title: "RA"
+    url: /kmi-ra/
+  - title: "MSc Thesis"
     url: /master/
   - title: "PoliTo"
     url: /polito/
-  - title: "Other links"
-    url: /other/
+  # - title: "Other links"
+  #   url: /other/
