@@ -24,7 +24,7 @@ During this activity, we found the material to compare different existing assess
 - ["News Source Credibility in the Eyes of Different Assessors"](http://oro.open.ac.uk/62771/) in the [Conference for Truth and Trust Online](https://truthandtrustonline.com/): this paper is a comparison of existing assessments rating the different factors of credibility: the factuality provided by fact-checkers and other ratings of existing tools (e.g. [Media Bias/Fact Check](https://mediabiasfactcheck.com), [NewsGuard](https://newsguardtech.com), [Web of Trust](https://mywot.com)). We pointed out the challenges that we are facing while developing the technological solutions, such as how to deal with contrasting signals to credibility. You can check out the [slides used during the presentation](https://slideshare.net/MartinoMensio/news-source-credibility-in-the-eyes-of-different-assessors).
 - ["MisinfoMe: Who’s Interacting with Misinformation?"](http://oro.open.ac.uk/66341/) in the [International Semantic Web Conference 2019](https://iswc2019.semanticweb.org): this short paper is a description of the demonstration of the tool that will be given in the session Posters & Demos. The tool itself is [publicly available online](https://misinfo.me/)
 
-## NL Understannding (May 2018 - November 2018)
+## NL Understanding (May 2018 - November 2018)
 
 The topics covered in this period are a continuation of the work done for the [Master's Thesis](/master/).
 
