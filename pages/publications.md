@@ -7,6 +7,7 @@ title: Publications
 
 ### Published as first author
 
+- Mensio M., Alani H., Willis A. (June 2020) One Event, Different Stories. In *Postgraduate Research Poster Competition 2020, The Open University* [[Multimedia entry (ORO)](https://doi.org/10.21954/ou.rd.12676397.v1)] [[Poster (ORO)](http://oro.open.ac.uk/71340/)]
 - Mensio M., Willis A., Alani H. (April 2020) Towards a Cross-article Narrative Comparison of News. In *Third International Workshop on Narrative Extraction from Texts held in conjunction with the 42nd European Conference on Information Retrieval (Text2Story2020 @ ECIR2020)* [[Full text (ORO)](http://oro.open.ac.uk/69887/)] [[Full text (CEUR)](http://ceur-ws.org/Vol-2593/paper11.pdf)] [[Presentation slides](https://www.slideshare.net/MartinoMensio/towards-a-crossarticle-narrative-comparison-of-news)]
 - Mensio M., Bastianelli E., Tiddi I., Rizzo G. (March 2020) Mitigating Bias in Deep Nets with Knowledge Bases: the Case of Natural Language Understanding for Robots. In *AAAI 2020 Spring Symposium on Combining Machine Learning with Knowledge Engineering* [[Full text (CEUR)](http://ceur-ws.org/Vol-2600/paper20.pdf)]
 - Mensio M., Alani H. (October 2019) MisinfoMe: Who’s Interacting with Misinformation? In *(ISWC 2019) Posters and Demos* [[Poster](/assets/docs/2019_ISWC_poster.pdf)] [[Full text (ORO)](http://oro.open.ac.uk/66341/)] [[Full text (CEUR)](http://ceur-ws.org/Vol-2456/paper57.pdf)]
@@ -17,6 +18,7 @@ title: Publications
 
 ### Other publications
 
+- Burel G., Farrell T., Mensio M., Khare P., Alani H. (October 2020) Co-Spread of Misinformation and Fact-Checking Content during the Covid-19 Pandemic. In *(SocInfo 2020) Social Informatics 2020* [[Full text (ORO)](http://oro.open.ac.uk/71786/)] [[Full text (TODO)](TODO)]
 - Piccolo L., Mensio M., Alani H. (October 2018) Chasing the Chatbots: Directions for Interaction and Design Research. In *(INSCI 2018) CONVERSATIONS Workshop* [[Full text (Springer)](https://link.springer.com/chapter/10.1007/978-3-030-17705-8_14)] [[Full text (ORO)](http://oro.open.ac.uk/57382/)]
 - Tiddi I., Bastianelli E., Mensio M., Motta E. (October 2018) Allowing Exploratory Search from Podcasts: the Case of Secklow Sounds Radio. In *(ISWC 2018) Posters and Demos* [[Full text (CEUR)](http://ceur-ws.org/Vol-2180/paper-71.pdf)]
 
