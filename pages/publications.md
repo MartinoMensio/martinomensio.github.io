@@ -36,7 +36,9 @@ Here are listed other public works which can be papers where I am not the first 
 
 ### Papers not first-authored
 
-- Burel G., Farrell T., Mensio M., Khare P., Alani H. (October 2020) Co-Spread of Misinformation and Fact-Checking Content during the Covid-19 Pandemic. In *(SocInfo 2020) Social Informatics 2020* [[Full text (ORO)](http://oro.open.ac.uk/71786/)] [[Full text (TODO)](TODO)]
+- Denaux R., Mensio M., Gomez-Perez J., Alani H. (August 2021) Weaving a Semantic Web of Credibility Reviews for Explainable Misinformation Detection. In *Thirtieth International Joint Conference on Artificial Intelligence (IJCAI-21)* [[Full text (ORO)](http://oro.open.ac.uk/78620/)] [[Full text (IJCAI)](https://www.ijcai.org/proceedings/2021/646)]
+- Piccolo L., Blackwood A., Farrell T., Mensio M. (July 2021) Agents for Fighting Misinformation Spread on Twitter: Design Challenges. In *3rd Conference on Conversational User Interfaces (CUI 2021)* [[Full text (ORO)](http://oro.open.ac.uk/78241/)] [[Full text (ACM)](https://dl.acm.org/doi/abs/10.1145/3469595.3469628)]
+- Burel G., Farrell T., Mensio M., Khare P., Alani H. (October 2020) Co-Spread of Misinformation and Fact-Checking Content during the Covid-19 Pandemic. In *(SocInfo 2020) Social Informatics 2020* [[Full text (ORO)](http://oro.open.ac.uk/71786/)] [[Full text (Springer)](https://link.springer.com/chapter/10.1007%2F978-3-030-60975-7_3)]
 - Piccolo L., Mensio M., Alani H. (October 2018) Chasing the Chatbots: Directions for Interaction and Design Research. In *(INSCI 2018) CONVERSATIONS Workshop* [[Full text (Springer)](https://link.springer.com/chapter/10.1007/978-3-030-17705-8_14)] [[Full text (ORO)](http://oro.open.ac.uk/57382/)]
 - Tiddi I., Bastianelli E., Mensio M., Motta E. (October 2018) Allowing Exploratory Search from Podcasts: the Case of Secklow Sounds Radio. In *(ISWC 2018) Posters and Demos* [[Full text (CEUR)](http://ceur-ws.org/Vol-2180/paper-71.pdf)]
 
