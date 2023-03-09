@@ -4,9 +4,10 @@ author_profile: true
 title: Welcome
 ---
 
-I am Martino, PhD Student at the Open University. I graduated in Computer Engineering and I am intrigued by Natural Language Processing and Explainability.
+I am Martino, PhD Student at the Open University. I graduated in Software Engineering and I am intrigued by Natural Language Processing and Explainability.
 
-I like to understand how things work and I think that Artificial Intelligence should be more than algorithms that learn to perform complex tasks; we have to focus about explainable methods that enable the crowds to understand why things happen, to be able to face and remove bias, correct models and enabling the humans to improve their learning capabilities.
+I am highly interested in open source. I am currently concluding my PhD in Data Science, and I am working part-time as Research Assistant at the Knowledge Media Institute (UK).
+As soon as I will submit my PhD thesis, I am looking forward to relocating in the Netherlands around June and start working full time. I am currently on the lookout for software engineering / data science roles that allow me to showcase my enthusiasm for hands-on projects that produce tangible outcomes.
 
 ## Short bio
 
