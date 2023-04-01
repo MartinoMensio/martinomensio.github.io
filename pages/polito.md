@@ -5,7 +5,7 @@ permalink: /polito/
 title: PoliTo projects
 ---
 
-This page contains a list of resources created while attending courses at Politecnico di Torino. They include 
+This page contains a list of resources created while attending courses at Politecnico di Torino. They are grouped by year. 
 
 ## Master's Degree first year
 

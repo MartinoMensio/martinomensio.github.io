@@ -6,7 +6,7 @@ title: Deep Semantic Learning for Conversational Agents
 ---
 
 I did my Master's Thesis under the supervision of [Giuseppe Rizzo](http://giusepperizzo.github.io/) (from [Istituto Superiore Mario Boella](http://www.ismb.it/)) and [Maurizio Morisio](https://softeng.polito.it/morisio/) (professor in [DAUIN](http://www.dauin.polito.it/it/)).
-The thesis, [openly available](http://dx.doi.org/10.13140/RG.2.2.31318.34887/1), is centred on the topic of conversational agents and the task of Natural Language Understanding.
+The thesis, [openly available](https://webthesis.biblio.polito.it/7552/1/tesi.pdf), is centred on the topic of conversational agents and the task of Natural Language Understanding.
 
 The main contribution of this work is a conversational model, that learns how to perform on a specific and narrow task, by taking into account the sentences from the users. The outputs of this work are:
 
