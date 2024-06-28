@@ -4,8 +4,8 @@ author_profile: true
 title: Welcome
 ---
 
-I am Martino, PhD Student at the Open University. I graduated in Software Engineering and I am intrigued by Natural Language Processing, backend development, and Python.
-I love open source and I maintain many repositories on [GitHub](https://github.com/MartinoMensio/).
+I am Martino, an Open Source passionate and mantainer: [GitHub](https://github.com/MartinoMensio/).
+I got my PhD at the Open University in Data Science. My Master's Degree is in Software Engineering and I am intrigued by Natural Language Processing, backend development, and Python.
 
 ## Short bio
 
@@ -13,7 +13,9 @@ My path in Computer Science begins with my Bachelor's and Master's degrees in So
 
 For my next professional step, I worked as Research Assistant in the [Knowledge Media Institute](http://kmi.open.ac.uk/), part of The Open University. Here I participated in different projects, varying from  conversational agents to misinformation (more details [here](/kmi-ra/)).
 
-On October 2019 I started my PhD at The Open University. During [my PhD](/phd/) I am analysing how specific topics are portrayed by news outlets coming from different political leanings.
+Between 2019 and 2023 I did my PhD at The Open University. During [my PhD](/phd/) I am analysing how specific topics are portrayed by news outlets coming from different political leanings.
+
+In 2024 I joined [TNO](https://www.tno.nl/en/) as Research Scientist, focusing on applied Machine Learning in multiple projects.
 
 ## Curriculum Vitae
 
