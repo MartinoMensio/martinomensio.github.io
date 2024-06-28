@@ -14,7 +14,7 @@ In my work I make use of several NLP techniques and tools, such as document embe
 
 The following materials are publicly available:
 
-- The full text of the thesis: https://oro.open.ac.uk/98145/ (and the [latex source](https://github.com/MartinoMensio/phd-thesis))
+- The [full document of the thesis](https://oro.open.ac.uk/98145/) (and the [latex source](https://github.com/MartinoMensio/phd-thesis))
 - Presentation: [slideshare](https://www.slideshare.net/slideshow/persuasion-across-the-political-spectrum-quantifying-differences-in-parallel-news-reports/269941090)
 - Source code of the experiments: [main repository](https://github.com/MartinoMensio/phd-project)
 - Additional tooling developed during/for the PhD project:
