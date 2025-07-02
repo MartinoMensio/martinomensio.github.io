@@ -13,6 +13,14 @@ toc_sticky: true
 
 This section contains the publications where I am the first author.
 
+### 2024
+
+- Mensio M., (June 2024) MisinfoMe: A Tool for Longitudinal Assessment of Twitter Accounts' Sharing of Misinformation. *PhD Thesis, The Open University* [[Full text (ORO)](https://oro.open.ac.uk/98145/)] [[Presentation slides (VIVA)](https://www.slideshare.net/slideshow/persuasion-across-the-political-spectrum-quantifying-differences-in-parallel-news-reports/269941090)]
+
+### 2023
+
+- Mensio M., Burel G., Farrell T., Alani H. (June 2023) Persuasion across the Political Spectrum: Quantifying Differences in Parallel News Reports. In *(UMAP '23) 31st ACM Conference on User Modeling, Adaptation and Personalization* [[Full text (ACM)](https://dl.acm.org/doi/abs/10.1145/3563359.3597396)] [[Latex source](https://github.com/MartinoMensio/phd-thesis)]
+
 ### 2020
 
 - Mensio M., Alani H., Willis A. (June 2020) One Event, Different Stories. In *Postgraduate Research Poster Competition 2020, The Open University* [[Multimedia entry (ORO)](https://doi.org/10.21954/ou.rd.12676397.v1)] [[Poster (ORO)](http://oro.open.ac.uk/71340/)]
@@ -36,7 +44,9 @@ Here are listed other public works which can be papers where I am not the first 
 
 ### Papers not first-authored
 
-- Reyero Lobo P., Mensio M., Pavon-Perez A., Bayer V., Kwarteng J., Fernandez M., Daga E., Alani H. (June 2022) Estimating Ground Truth in a Low-labelled Data Regime: A Study of Racism Detection in Spanish. In *(ICWSM-22) st Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media (NEATCLasS)* [[Full text (ICWSM)](https://doi.org/10.36190/2022.94)]
+- Stasinos S., Mensio M., Lazovik E., Trantas A. (October 2025) BioCube: A Multimodal Dataset for Biodiversity Research. In *(BiDS'25) BIG DATA FROM SPACE 2025* [[Full text (Arxiv)](https://arxiv.org/abs/2505.11568)]
+- Burel G., Mensio M., Peskine Y., Troncy R., Papotti P., Alani H. (November 2024) CimpleKG: A Continuously Updated Knowledge Graph on Misinformation, Factors and Fact-Checks. In *(ISWC 2024) International Semantic Web Conference 2024* [[Full text (Springer)](https://link.springer.com/chapter/10.1007/978-3-031-77847-6_6)] [[Full text (ORO)](https://oro.open.ac.uk/101150/)]
+- Reyero Lobo P., Mensio M., Pavon-Perez A., Bayer V., Kwarteng J., Fernandez M., Daga E., Alani H. (June 2022) Estimating Ground Truth in a Low-labelled Data Regime: A Study of Racism Detection in Spanish. In *(ICWSM-22) 16st Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media (NEATCLasS)* [[Full text (ICWSM)](https://doi.org/10.36190/2022.94)]
 - Denaux R., Mensio M., Gomez-Perez J., Alani H. (August 2021) Weaving a Semantic Web of Credibility Reviews for Explainable Misinformation Detection. In *Thirtieth International Joint Conference on Artificial Intelligence (IJCAI-21)* [[Full text (ORO)](http://oro.open.ac.uk/78620/)] [[Full text (IJCAI)](https://www.ijcai.org/proceedings/2021/646)]
 - Piccolo L., Blackwood A., Farrell T., Mensio M. (July 2021) Agents for Fighting Misinformation Spread on Twitter: Design Challenges. In *3rd Conference on Conversational User Interfaces (CUI 2021)* [[Full text (ORO)](http://oro.open.ac.uk/78241/)] [[Full text (ACM)](https://dl.acm.org/doi/abs/10.1145/3469595.3469628)]
 - Burel G., Farrell T., Mensio M., Khare P., Alani H. (October 2020) Co-Spread of Misinformation and Fact-Checking Content during the Covid-19 Pandemic. In *(SocInfo 2020) Social Informatics 2020* [[Full text (ORO)](http://oro.open.ac.uk/71786/)] [[Full text (Springer)](https://link.springer.com/chapter/10.1007%2F978-3-030-60975-7_3)]
