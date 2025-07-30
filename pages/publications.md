@@ -15,7 +15,7 @@ This section contains the publications where I am the first author.
 
 ### 2024
 
-- Mensio M., (June 2024) MisinfoMe: A Tool for Longitudinal Assessment of Twitter Accounts' Sharing of Misinformation. *PhD Thesis, The Open University* [[Full text (ORO)](https://oro.open.ac.uk/98145/)] [[Presentation slides (VIVA)](https://www.slideshare.net/slideshow/persuasion-across-the-political-spectrum-quantifying-differences-in-parallel-news-reports/269941090)]
+- Mensio M., (June 2024) Persuasion across the Political Spectrum: Quantifying Differences in Parallel News Reports. *PhD Thesis, The Open University* [[Full text (ORO)](https://oro.open.ac.uk/98145/)] [[Presentation slides (VIVA)](https://www.slideshare.net/slideshow/persuasion-across-the-political-spectrum-quantifying-differences-in-parallel-news-reports/269941090)]
 
 ### 2023
 
