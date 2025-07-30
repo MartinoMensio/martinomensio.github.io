@@ -112,8 +112,8 @@ author:
   name             : "Martino Mensio"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "Milton Keynes (UK)"
-  email            : "martino.mensio@open.ac.uk"
+  location         : "Amsterdam (NL)"
+  email            : "martino.mensio@tno.nl"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : "MartinoMensio"
